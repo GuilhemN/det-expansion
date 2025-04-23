@@ -3,7 +3,7 @@
  *
  * ==========================(LICENSE BEGIN)============================
  *
- * Copyright (c) 2023 Guilhem Niot
+ * Copyright (c) 2023
  *
  * Permission is hereby granted, free of charge, to any person obtaining
  * a copy of this software and associated documentation files (the
@@ -25,8 +25,6 @@
  * SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
  *
  * ===========================(LICENSE END)=============================
- *
- * @author   Guilhem Niot <guilhem@gniot.fr>
  */
 
 #include "fmpq.h"
